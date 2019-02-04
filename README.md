@@ -1,9 +1,9 @@
 # posts-App
-RecyclerView show data get from api using retrofit library.
+RecyclerView show data get from API using retrofit library.
 
 Retrofit documentation :https://square.github.io/retrofit/ .
 
-API : https://jsonplaceholder.typicode.com/posts .
+API Link : https://jsonplaceholder.typicode.com/posts .
 
 
 
